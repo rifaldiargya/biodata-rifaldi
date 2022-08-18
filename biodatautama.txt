@@ -2,3 +2,8 @@ nama: rifaldi argya farid
 alamat: jln gumuruh
 tempat tanggal lahir: 24 april 2005 tangerang 
 hobi: main bola, apa aja
+cita cita: apa aja
+riwayat pendidikan: tk alhikmah 
+sdn 063 
+smp bhayangkari 
+smk prakarya internasional
